@@ -1,0 +1,75 @@
+# ---------------------------
+# Python standard ignores
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# IDE & editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Notebook checkpoints (if you ever use Jupyter)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Cached model/data files (optional, for ML work)
+*.h5
+*.ckpt
+*.pkl
+*.npz
+*.csv
+*.tsv
+*.db
+
+# ---------------------------
+# Project-specific
+# ---------------------------
+# Ignore cache directory tag if auto-generated
+CACHEDIR.TAG
+
