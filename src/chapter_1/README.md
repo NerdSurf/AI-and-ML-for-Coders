@@ -24,3 +24,5 @@ Traditional programming relies on rules you define to generate answers. Machine 
 you give it the data and examples of the answers, and it figures out the rules for itself using pattern 
 recognition and other algorithms.
 
+
+

@@ -13,3 +13,4 @@ def streetlamp_on_off(light_brightness, light_status):
 
 def main():
     streetlamp_on_off(light, streetlamp_status)
+
