@@ -41,9 +41,10 @@ Your folder structure should look something like this:
 └─ requirements.txt
 </pre>
 
-#Configure Your IDE
+# Configure Your IDE
 In PyCharm: 
 - Right-click the src/ folder → Mark Directory As → Sources Root
+
 In VS Code:
 - Add this to .vscode/settings.json:
 
