@@ -1,6 +1,5 @@
 # Chapter 1: Introduction to Tensorflow
 
----
 ## Traditional Programming vs. Machine Learning
 
 I’ve tinkered with TensorFlow and a few other ML tools before, but this project is all about learning the 
@@ -52,6 +51,7 @@ or off, even when it encounters new scenarios it’s never seen before.
 
 In order to utilize this technology, we need to use a library known as **TensorFlow**, a machine learning
 library that allows you to create your own models.
+
 ---
 ## How To: Installing TensorFlow
 Below is a simple, step-by-step guide to installing TensorFlow on Windows, macOS, and Linux — using either 
